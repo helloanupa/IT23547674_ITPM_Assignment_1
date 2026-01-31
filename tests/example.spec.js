@@ -55,35 +55,35 @@ const testData = [
 
     
 
-{ id: 'Neg_Fun_14', type: 'fail', input: 'mamagedaraenava', expected: 'මම ගෙදර එනවා' },
+{ id: 'Neg_Fun_15', type: 'fail', input: 'mamagedaraenava', expected: 'මම ගෙදර එනවා' },
 
-{ id: 'Neg_Fun_15', type: 'fail', input: 'oyata loku amarui da', expected: 'ඔයාට ලොකු අමාරුයිද?' },
+{ id: 'Neg_Fun_16', type: 'fail', input: 'oyata loku amarui da', expected: 'ඔයාට ලොකු අමාරුයිද?' },
 
-{ id: 'Neg_Fun_16', type: 'fail', input: 'eka nam hari lassanai', expected: 'එක නම් හරි ලස්සනයි' },
+{ id: 'Neg_Fun_17', type: 'fail', input: 'eka nam hari lassanai', expected: 'එක නම් හරි ලස්සනයි' },
 
-{ id: 'Neg_Fun_17', type: 'fail', input: 'mama honda lamayek', expected: 'මම හොඳ ළමයෙක්' },
+{ id: 'Neg_Fun_18', type: 'fail', input: 'mama honda lamayek', expected: 'මම හොඳ ළමයෙක්' },
 
-{ id: 'Neg_Fun_18', type: 'fail', input: 'mokakda me wenne', expected: 'මොකක්ද මේ වෙන්නේ?' },
+{ id: 'Neg_Fun_19', type: 'fail', input: 'mokakda me wenne', expected: 'මොකක්ද මේ වෙන්නේ?' },
 
-{ id: 'Neg_Fun_19', type: 'fail', input: 'api ymu colombo', expected: 'අපි යමු කොළඹ' },
+{ id: 'Neg_Fun_20', type: 'fail', input: 'api ymu colombo', expected: 'අපි යමු කොළඹ' },
 
-{ id: 'Neg_Fun_20', type: 'fail', input: 'teacher kawda', expected: 'ගුරුවරයා කවුද?' },
+{ id: 'Neg_Fun_21', type: 'fail', input: 'teacher kawda', expected: 'ගුරුවරයා කවුද?' },
 
-{ id: 'Neg_Fun_21', type: 'fail', input: 'oyata sathutuda 😊', expected: 'ඔයාට සතුටුද?' },
+{ id: 'Neg_Fun_22', type: 'fail', input: 'oyata sathutuda 😊', expected: 'ඔයාට සතුටුද?' },
 
-{ id: 'Neg_Fun_22', type: 'fail', input: 'meeka nam honda idea ekak', expected: 'මේක නම් හොඳ අදහසක්' },
+{ id: 'Neg_Fun_23', type: 'fail', input: 'meeka nam honda idea ekak', expected: 'මේක නම් හොඳ අදහසක්' },
 
-{ id: 'Neg_Fun_23', type: 'fail', input: 'wifi wada na bn', expected: 'වයිෆයි වැඩ නැ බන්' },
+{ id: 'Neg_Fun_24', type: 'fail', input: 'wifi wada na bn', expected: 'වයිෆයි වැඩ නැ බන්' },
 
-{ id: 'Neg_Fun_24', type: 'fail', input: 'call ekak danna puluwanda', expected: 'කෝල් එකක් දාන්න පුළුවන්ද?' },
+{ id: 'Neg_Fun_25', type: 'fail', input: 'call ekak danna puluwanda', expected: 'කෝල් එකක් දාන්න පුළුවන්ද?' },
 
-{ id: 'Neg_Fun_25', type: 'fail', input: 'mokdda karanne dn', expected: 'මොකක්ද දැන් කරන්නේ?' },
+{ id: 'Neg_Fun_26', type: 'fail', input: 'mokdda karanne dn', expected: 'මොකක්ද දැන් කරන්නේ?' },
 
-{ id: 'Neg_Fun_26', type: 'fail', input: 'mama exam eka pass una', expected: 'මම විභාගය පාස් උනා' },
+{ id: 'Neg_Fun_27', type: 'fail', input: 'mama exam eka pass una', expected: 'මම විභාගය පාස් උනා' },
 
-{ id: 'Neg_Fun_27', type: 'fail', input: 'time eka hari madi', expected: 'වේලාව හරි මදි' },
+{ id: 'Neg_Fun_28', type: 'fail', input: 'time eka hari madi', expected: 'වේලාව හරි මදි' },
 
-{ id: 'Neg_Fun_28', type: 'fail', input: 'issella oyama kiyanna', expected: 'ඉස්සෙල්ලා ඔයාම කියන්න' }
+{ id: 'Neg_Fun_29', type: 'fail', input: 'issella oyama kiyanna', expected: 'ඉස්සෙල්ලා ඔයාම කියන්න' }
 
 
 ];
